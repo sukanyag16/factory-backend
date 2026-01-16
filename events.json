@@ -1,0 +1,33 @@
+[
+  {
+    "eventId": "E10",
+    "eventTime": "2026-01-15T09:30:00Z",
+    "receivedTime": "2026-01-15T09:31:00Z",
+    "machineId": "M1",
+    "factoryId": "F1",
+    "lineId": "L1",
+    "durationMs": 1000,
+    "defectCount": 1
+  },
+  {
+    "eventId": "E11",
+    "eventTime": "2026-01-15T10:00:00Z",
+    "receivedTime": "2026-01-15T10:01:00Z",
+    "machineId": "M2",
+    "factoryId": "F1",
+    "lineId": "L2",
+    "durationMs": 1200,
+    "defectCount": 3
+  },
+  {
+    "eventId": "E12",
+    "eventTime": "2026-01-15T11:00:00Z",
+    "receivedTime": "2026-01-15T11:01:00Z",
+    "machineId": "M3",
+    "factoryId": "F1",
+    "lineId": "L2",
+    "durationMs": 1100,
+    "defectCount": 2
+  }
+]
+
