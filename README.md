@@ -132,16 +132,12 @@ http://localhost:8081
 
 mvn test
 
-yaml
-Copy code
-
 Includes 8 mandatory test cases.
 
 ---
 
 ## 10. Improvements
 
-- Kafka ingestion
 - PostgreSQL persistence
 - Monitoring dashboards
 - Authentication & authorization
